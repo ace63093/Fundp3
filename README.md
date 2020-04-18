@@ -1,6 +1,6 @@
 # **The Odin Project Web Development 101 Fundamentals Part 3**
 ---
-**There are 4 function outputs in the console window **
+**There are 4 function outputs in the console window**
 ---
 
 1. Write a function called add7 that takes one number and returns that number + 7.
